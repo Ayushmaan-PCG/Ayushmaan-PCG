@@ -12,15 +12,19 @@
 - <b>C#</b>
 
 <h2>Certifications</h2>
-  <h3/><a href="https://hackingtons.com">Hackingtons Code School</a>
+<h3/><a href="https://hackingtons.com">Hackingtons Code School</a>
 
 - <b>HTML & CSS Black Belt Award</b>
-  - Date Awarded: November 2020
+ 	- Time Awarded: November 2020
 
 - <b>Scratch Black Belt Award</b>
-  - Date Awarded: 2/20/2021
+	- Time Awarded: 2/20/2021
   
 - <b>Python Black Belt Award</b>
-  - Date Awarded: November 2020
-  
--W.I.P
+	- Time Awarded: November 2020
+
+
+<h3/><a href="https://www.byjusfutureschool.com/">WhiteHat Jr.</a>
+
+- <b>WhiteHat Jr. Certified Game Developer</b>
+	- Year Awarded: 2020
