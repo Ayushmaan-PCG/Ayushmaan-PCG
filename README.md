@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Hi, my name is Ayushmaan! <br/><a href="https://github.com/Ayushmaan-PCG">Coder</a>
 
-<!--
-**Ayushmaan-PCG/Ayushmaan-PCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Coding Languages Learnt:</h2>
 
-Here are some ideas to get you started:
+- <b>Block Coding</b>
+- <b>HTML & CSS</b>
+- <b>Python</b>
+- <b>Lua</b>
+- <b>C++</b>
+- <b>Javascript</b>
+- <b>Java</b>
+- <b>C#</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Certifications</h2>
+  <h3/><a href="https://hackingtons.com">Hackingtons Code School</a>
+
+- <b>HTML & CSS Black Belt Award</b>
+  - Date Awarded: November 2020
+
+- <b>Scratch Black Belt Award</b>
+  - Date Awarded: 2/20/2021
+  
+- <b>Python Black Belt Award</b>
+  - Date Awarded: November 2020
+  
+-W.I.P
