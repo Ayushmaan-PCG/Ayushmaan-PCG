@@ -1,4 +1,5 @@
-<h1>Hi, my name is Ayushmaan and I am in 7th grade! <br/><a href="https://github.com/Ayushmaan-PCG">Coder</a>, <br/><a href="https://youtube.com/c/procodergaming">Gaming YouTuber</a>
+<h1>Hi, my name is Ayushmaan and I am in 7th grade!</h1>
+<h2><a href="https://github.com/Ayushmaan-PCG">Coder</a>, <b><a href="https://youtube.com/c/procodergaming">Gaming YouTuber</a>
 
 <h2>Coding Languages Learnt:</h2>
 
