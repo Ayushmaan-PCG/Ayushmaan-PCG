@@ -1,4 +1,4 @@
-<h1>Hi, my name is Ayushmaan! <br/><a href="https://github.com/Ayushmaan-PCG">Coder</a>
+<h1>Hi, my name is Ayushmaan and I am in 7th grade! <br/><a href="https://github.com/Ayushmaan-PCG">Coder</a>
 
 <h2>Coding Languages Learnt:</h2>
 
