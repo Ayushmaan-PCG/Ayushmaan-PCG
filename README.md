@@ -100,34 +100,40 @@
 <br />
 
 <h1>🏫 Education 🏫</h1>
+<h3>
+
+- <b>School</b>
+	
+	- Laurel Springs Online School
 
 <br />
 
-<b>School</b>
-- <b>Laurel Springs Online School</b>
-
-<br />
-
-<b>Class</b>
-- <b>7th Grade</b>
+- <b>Class</b>
+	
+	- 7th Grade
+</h3>
 
 <br />
 <br />
 
-<h1>Honors</h1>
+<h1>🎓 Honors 🎓</h1>
 
 <br />
+
+<h3>
 
 - <b>National Junior Honor Society - Laurel Springs School - 302 West El Paseo Road · Ojai, CA 93023<b>
 
+</h3>
+
 <br />
 <br />
 
-<h1>🎾 Hobbies 💻<h1>
+<h1>🎾 Hobbies 💻</h1>
 
 - <b>Tennis</b>
-- <b>Piano</b>
-- <b>Drums</b>
 - <b>Coding</b>
 - <b>Robotics</b>
+- <b>Piano</b>
+- <b>Drums</b>
 - <b>Content Creation</b>
