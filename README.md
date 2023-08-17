@@ -32,6 +32,16 @@
 
 <h3><a href "https://idtech.com">iD Tech</a>
 
+- <b>Completing the Artificial Intelligence and Machine Learning Course</b>
+	
+	- Location: UC Berkeley
+	
+	- Date Awarded: 7/07/2023
+	
+	- A Personal Note from the Instructor: 
+	
+		- Ayush, you have worked very hard this week and should be proud of all of your accomplishments. Your infectious positive attitude, along with your kind and helpful nature, is a great asset when working collaboratively with your classmates. Your intuition for code structure and understanding of the concepts behind the code made your projects successful. Your convolutional neural network project really showed understanding of Python. Ayush, you are an excellent student with a knack of technology. Keep up the great work, and I hope to see you back next summer!
+
 - <b>Mastering the Java Coding: Build Mods with Minecraft Course</b>
 	
 	- Location: Sacramento State University
