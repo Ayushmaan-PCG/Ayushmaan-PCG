@@ -131,7 +131,7 @@
 
 - <b>Class</b>
 	
-	- 7th Grade
+	- 8th Grade
 </h3>
 
 <br />
