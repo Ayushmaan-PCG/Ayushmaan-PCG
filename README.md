@@ -1,5 +1,5 @@
 <h1>Hi, my name is Ayushmaan Bellum!</h1>
-<h1><a href="https://github.com/Ayushmaan-PCG">Coder</a>, <a href="https://drive.google.com/file/d/1Z0Sb5D-npxaza7S-8segwOMIOHp187-9/view?usp=sharing">Roboticist</a>, <a href="https://youtube.com/c/procodergaming">Gaming YouTuber</a></h1>
+<h2><a href="https://github.com/Ayushmaan-PCG">Coder</a>, <a href="https://drive.google.com/file/d/1Z0Sb5D-npxaza7S-8segwOMIOHp187-9/view?usp=sharing">Roboticist</a>, <a href="https://youtube.com/c/procodergaming">Gaming YouTuber</a></h2>
 
 <br />
 <br />
@@ -7,7 +7,7 @@
 <br />
 
 <h1>Who is Ayushmaan Bellum?</h1>
-<p>I am a 7th grader that is very passionate in coding and robotics. I am also a gamer that has a YouTube channel which has content on a game called "Minecraft". I currently have over 2,000 subscribers and earned over $300. I also earned many certificates on coding.</p>
+<p>I am a 7th grader that is very passionate in coding and robotics. I am also a gamer that has a YouTube channel which has content on a game called "Minecraft". I recently have reached 3,000 subscribers and earned over $300. I also earned many certificates on coding.</p>
 
 <br />
 <br />
@@ -22,6 +22,17 @@
 - <b>Javascript</b>
 - <b>Java</b>
 - <b>C#</b>
+
+<br />
+<br />
+
+<h1>🤖 My Robotics Experience 🤖</h1>
+
+- <p>I have started doing Robotics in 2021 with the VEX IQ kit. I built a simple robot that I can drive with a controller that has a claw, a distance sensor, an optical sensor, and a color sensor. I also made two different programs with the distance sensor. One program was the robot moving backwards when I put my hand near it and the other was the robot moving closer as I put my hand near it.</p>
+
+- <p>2022 was my first year using a more complicated kit in VEX Robotics, the VEX V5 kit. I learned from the foundation Falkon Academy. In this year, I participated in two competitions. This game that I participated in was called VRC Spin Up. I designed my robot to push discs into a goal for points, designed a roller to flip every cylindar on each side of the field to our alliance team.</p>
+
+- <p>2023 is my second year in building VEX V5 robots. I have already participated in three competitions and I have one more upcoming competition before the end of the season. The game for this year is called VRC Over Under. This is also my first year where I code my robot for a 15-second period, the autonomous period. I designed my robot to push 4-sided rounded objects that are called triballs into the opposing goal, use a catapult mechanism to launch new triballs across the field near the opposing goal so that I can push them in, and a mechanism that allows my robot to balance on the bar that separates the teams. I also have flaps that open with the press of a button on my controller. I used a pneumatics kit for the flaps, meaning that I have to inflate air into a tank in order to operate the flaps. I am currently aiming for a way to boost my rankings, the autonomous win point. I am currently working on a hook mechanism to pull a triball from a corner of the field as it is one of the steps to getting the autonomous win point.</p>
 
 <br />
 <br />
