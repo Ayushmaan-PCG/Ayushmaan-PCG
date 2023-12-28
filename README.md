@@ -41,7 +41,7 @@
 	
 <br />
 
-<h3><a href "https://idtech.com">iD Tech</a>
+<h3><a href="https://idtech.com">iD Tech</a>
 
 - <b>Completing the Artificial Intelligence and Machine Learning Course</b>
 	
