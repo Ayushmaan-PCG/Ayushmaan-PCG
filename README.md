@@ -1,5 +1,5 @@
 <h1>Hi, my name is Ayushmaan Bellum!</h1>
-<h2><a href="https://github.com/Ayushmaan-PCG">Coder</a>, <a href="https://drive.google.com/file/d/1Z0Sb5D-npxaza7S-8segwOMIOHp187-9/view?usp=sharing">Roboticist</a>, <a href="https://youtube.com/c/procodergaming">Gaming YouTuber</a></h2>
+<h2><a href="https://github.com/Ayushmaan-PCG">Coder</a>, <a href="[https://drive.google.com/file/d/1Z0Sb5D-npxaza7S-8segwOMIOHp187-9/view?usp=sharing](https://drive.google.com/drive/folders/1tN7UsdWsFlROWCaRDWnypco7D--t161w?usp=drive_link)">Roboticist</a>, <a href="https://youtube.com/c/procodergaming">Gaming YouTuber</a></h2>
 
 <br />
 <br />
@@ -7,7 +7,7 @@
 <br />
 
 <h1>Who is Ayushmaan Bellum?</h1>
-<p>I am a 7th grader that is very passionate in coding and robotics. I am also a gamer that has a YouTube channel which has content on a game called "Minecraft". I recently have reached 3,000 subscribers and earned over $300. I also earned many certificates on coding.</p>
+<p>I am an 8th grader who is very passionate in coding and robotics. I am the captain of my Robotics team called "VEX Fighter Jets". I am also a gamer who has a YouTube channel which has content on a game called "Minecraft". I recently have reached 3,000 subscribers and earned over $300. I also earned many certificates on coding.</p>
 
 <br />
 <br />
