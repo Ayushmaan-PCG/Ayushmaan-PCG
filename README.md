@@ -67,7 +67,7 @@
 	
 <h3/><a href="https://udemy.com">Udemy</a>
 
-- <b>Certificate of Completing the Ulimate Guide to Game Development with Unity 2019</b>
+- <b>Certificate of Completing the Ultimate Guide to Game Development with Unity 2019</b>
 	
 	- Date Awarded: 8/19/2021
 	
