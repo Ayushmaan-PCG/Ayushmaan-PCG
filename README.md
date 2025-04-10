@@ -7,7 +7,7 @@
 <br />
 
 <h1>Who is Ayushmaan Bellum?</h1>
-<p>I am an 8th grader who is very passionate in coding and robotics. I am the captain of my Robotics team called "VEX Fighter Jets". I am also a gamer who has a YouTube channel which has content on a game called "Minecraft". I have over 3,000 subscribers and earned over $300. I also earned many certificates on coding.</p>
+<p>I am an 9th grader who is very passionate in coding and robotics. I am the captain of my robotics team called "Cognitaur". I am also a gamer who has a YouTube channel which has content on a game called "Minecraft". I have over 3,000 subscribers and . I also earned many certificates on coding.</p>
 
 <br />
 <br />
@@ -30,9 +30,11 @@
 
 - <p>I have started doing Robotics in 2021 with the VEX IQ kit. I built a simple robot that I can drive with a controller that has a claw, a distance sensor, an optical sensor, and a color sensor. I also made two different programs with the distance sensor. One program was the robot moving backwards when I put my hand near it and the other was the robot moving closer as I put my hand near it.</p>
 
-- <p>2022 was my first year using a more complicated kit in VEX Robotics, the VEX V5 kit. I learned from the foundation Falkon Academy. In this year, I participated in two competitions. This game that I participated in was called VRC Spin Up. I designed my robot to push discs into a goal for points, designed a roller to flip every cylindar on each side of the field to our alliance color.</p>
+- <p>2022 was my first year using a more complicated kit in VEX Robotics, the VEX V5 kit. In this year, I participated in two competitions. This game that I participated in was called VRC Spin Up. I designed my robot to push discs into a goal for points, designed a roller to flip every cylindar on each side of the field to our alliance color.</p>
 
 - <p>2023 is my second year in building VEX V5 robots. I have already participated in many competitions and even made it to the states championship. The game for this year is called VRC Over Under. This is also my first year where I code my robot for a 15-second period, the autonomous period. I designed my robot to push 4-sided rounded objects that are called triballs into the opposing goal, use a catapult mechanism to launch new triballs across the field near the opposing goal so that I can push them in, and a mechanism that allows my robot to balance on the bar that separates the teams. I also have flaps that open with the press of a button on my controller. I used a pneumatics kit for the flaps, meaning that I have to inflate air into a tank in order to operate the flaps. I am currently aiming for a way to boost my rankings, the autonomous win point. I already finished working on a hook mechanism to pull a triball from a corner of the field as it is one of the steps to getting the autonomous win point. I have also programmed the robot to do the tasks that will give me the autonomous win point, so all I need to do is ensure that the code works consistently.</p>
+
+- <p></p>
 
 <br />
 <br />
