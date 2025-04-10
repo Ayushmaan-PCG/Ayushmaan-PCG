@@ -7,7 +7,7 @@
 <br />
 
 <h1>Who is Ayushmaan Bellum?</h1>
-<p>I am an 9th grader who is very passionate in coding and robotics. I am the captain of my robotics team called "Cognitaur". I am also a gamer who has a YouTube channel which has content on a game called "Minecraft". I have over 3,000 subscribers and . I also earned many certificates on coding.</p>
+<p>I am an 9th grader who is very passionate in coding and robotics. I am the captain of my robotics team called "Cognitaur". I am also a gamer who runs a monetized gaming YouTube channel that has over 3,500 subscribers. I also earned many certificates on coding.</p>
 
 <br />
 <br />
