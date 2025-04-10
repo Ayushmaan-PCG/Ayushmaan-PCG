@@ -1,5 +1,5 @@
 <h1>Hi, my name is Ayushmaan Bellum!</h1>
-<h2><a href="https://github.com/Ayushmaan-PCG">Coder</a>, <a href="https://drive.google.com/drive/folders/1tN7UsdWsFlROWCaRDWnypco7D--t161w?usp=drive_link">Roboticist</a>, <a href="https://youtube.com/c/procodergaming">Gaming YouTuber</a></h2>
+<h2><a href="https://github.com/Ayushmaan-PCG">Coder</a>, <a href="https://www.youtube.com/@Cognitaur29712C">Roboticist</a>, <a href="https://youtube.com/c/procodergaming">Gaming YouTuber</a></h2>
 
 <br />
 <br />
