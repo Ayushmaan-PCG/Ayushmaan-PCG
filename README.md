@@ -7,7 +7,7 @@
 <br />
 
 <h1>Who is Ayushmaan Bellum?</h1>
-<p>I am an 9th grader who is very passionate in coding and robotics. I am the captain of my robotics team called "Cognitaur". I am also a gamer who runs a monetized gaming YouTube channel that has over 3,500 subscribers. I also earned many certificates on coding.</p>
+<p>I am a 10th grader who is very passionate in coding and robotics. I am the captain of my robotics team called "Cognitaur". I am also a gamer who runs a monetized gaming YouTube channel. I also earned many certificates on coding.</p>
 
 <br />
 <br />
@@ -127,13 +127,13 @@
 
 - <b>School</b>
 	
-	- Laurel Springs Online School
+	- Laurel Springs School
 
 <br />
 
 - <b>Class</b>
 	
-	- 8th Grade
+	- 10th Grade
 </h3>
 
 <br />
@@ -145,7 +145,7 @@
 
 <h3>
 
-- <b>National Junior Honor Society - Laurel Springs School - 302 West El Paseo Road · Ojai, CA 93023<b>
+- <b>National Honors Society - Laurel Springs School - 302 West El Paseo Road · Ojai, CA 93023<b>
 
 </h3>
 
